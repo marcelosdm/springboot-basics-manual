@@ -1,0 +1,16 @@
+/.idea
+/target
+/*.iml
+/.idea/libraries
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Maven
+log/
+target/
+**/build/*
+
+.scannerwork
